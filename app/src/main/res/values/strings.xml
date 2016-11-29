@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GesturePhone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">請畫出手勢來撥出電話</string>
+    <string name="text2">電話格式範例:</string>
+    <string name="text3">手機號碼格式:0910123456</string>
+    <string name="text4">住家電話格式:0412345678</string>
+    <string name="AddGesture">新增手勢</string>
+    <string name="ListGesture">手勢列表</string>
+    <string name="ClearGesture">清除手勢</string>
+    <string name="PhoneNumber">電話號碼</string>
+    <string name="GestureName">手勢名稱</string>
+    <string name="Gesture">手勢</string>
+</resources>
