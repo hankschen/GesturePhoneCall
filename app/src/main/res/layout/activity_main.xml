@@ -11,7 +11,7 @@
 
     <android.gesture.GestureOverlayView
         android:layout_width="match_parent"
-        android:background="#8666"
+        android:background="#88007788"
         android:gestureStrokeType="multiple"
         android:gestureStrokeWidth="10.0"
 

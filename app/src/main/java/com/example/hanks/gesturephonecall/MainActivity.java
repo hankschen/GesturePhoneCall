@@ -36,9 +36,9 @@ public class MainActivity extends AppCompatActivity {
         overlayView.addOnGesturePerformedListener(performedListener);
         btnAddgesture=(Button)findViewById(R.id.button);
         btnListGesture=(Button)findViewById(R.id.button2);
-
     }
 
+    //監聽劃出手勢圖形
     GestureOverlayView.OnGesturePerformedListener performedListener=new GestureOverlayView.OnGesturePerformedListener() {
         @Override
         public void onGesturePerformed(GestureOverlayView overlay, Gesture gesture) {
